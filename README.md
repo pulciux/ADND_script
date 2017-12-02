@@ -17,3 +17,5 @@ usage:
 ```{r, engine='sh', count_lines}
 sh#/bash ADND.sh source_list.csv > available.txt
 ```
+
+Now you can choose your new domain name without wasting time any more.
