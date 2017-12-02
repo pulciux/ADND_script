@@ -17,5 +17,6 @@ usage:
 ```{r, engine='sh', count_lines}
 sh#/bash ADND.sh source_list.csv > available.txt
 ```
+In the example source.csv there is a list of commonly perceived positive words which can fit a domain name aiming to give positive content. Which ones of them still available?
 
 Now you can choose your new domain name without wasting time any more.
